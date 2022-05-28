@@ -6,7 +6,7 @@
 name: 욱드래곤의 우당탕탕 코딩일기
 
 # Short bio or description (displayed in the header)
-# description: 
+description: 오늘도 우당탕탕...
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/wook-dragon/wook-dragon.github.io/master/images/jekyll-logo.png.gif
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
