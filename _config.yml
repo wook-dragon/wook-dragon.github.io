@@ -6,7 +6,7 @@
 name: 욱드래곤의 우당탕탕 코딩일기
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/wook-dragon/wook-dragon.github.io/master/images/jekyll-logo.png.gif
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: 
   instagram:
   linkedin:
   pinterest:
